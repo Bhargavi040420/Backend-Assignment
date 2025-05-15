@@ -24,4 +24,4 @@ A backend server implementation with REST APIs for managing users, their posts, 
 
 ```bash
 git clone https://github.com/your-username/Backend-Assignment.git
-cd backend-assignment
+cd Backend-Assignment
