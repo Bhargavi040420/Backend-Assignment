@@ -23,5 +23,5 @@ A backend server implementation with REST APIs for managing users, their posts, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/backend-assignment.git
+git clone https://github.com/your-username/Backend-Assignment.git
 cd backend-assignment
